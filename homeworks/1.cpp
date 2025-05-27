@@ -1,0 +1,1 @@
+// Write a function to calculate sum & product of all numbers in array
